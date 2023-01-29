@@ -7,6 +7,4 @@ Personal Summary:
 - 👯 I’m looking to collaborate with the AIoT communities
 - 💬 Ask me about anything, Sharing is Learning 😄
 - 📫 How to reach me: srikanthmsk635@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
