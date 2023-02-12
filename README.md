@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Srikanth Malineni
 
 Personal Summary:
-
-- 🔭 I’m currently pursuing Masters at University Of Bremen
-- 🌱 I’m currently learning Deep learning approaches for Virtual Reality and Communication Technologies
-- 👯 I’m looking to collaborate with the AIoT communities
-- 💬 Ask me about anything, Sharing is Learning 😄
-- 📫 How to reach me: srikanthmsk635@gmail.com
-
+- 🇮🇳
+- 🔭 University Of Bremen - Masters
+- 💻 Deep learning, Virtual Reality and Wireless Communication Technologies
+- 🎹 Languages and Tools : Python, C++, Unreal, OMNeT++, Django, AWS
+- 📁 Fields : Machine Learning, AIoT, Communications
+- 👉 Mail : malinenisrikanth@outlook.com
